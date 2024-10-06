@@ -4,11 +4,11 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Care4World
+A platform that allows users to donate small amounts anonymously to random charitable causes or individuals in need.
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Aneeja J](https://github.com/TH-Activities/saturday-hack-night-template)
+2. [Abhinav Rajesh](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
